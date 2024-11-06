@@ -229,6 +229,8 @@ img{
 }
 .about__img img{
     width: 100px;
+    object-fit: cover;
+
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
